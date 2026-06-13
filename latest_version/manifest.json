@@ -1,0 +1,85 @@
+{
+  "created_at": "2026-06-04T11:30:53.525313+00:00",
+  "release_root": "dist",
+  "note": "Deployable static bundle built from canonical trainer files.",
+  "files": [
+    {
+      "source": "hebrew_trainer_with_161_verbs_modes.html",
+      "destination": "index.html",
+      "size": 987
+    },
+    {
+      "source": "hebrew_trainer_with_161_verbs.html",
+      "destination": "hebrew_trainer_with_161_verbs.html",
+      "size": 987
+    },
+    {
+      "source": "hebrew_trainer.html",
+      "destination": "hebrew_trainer.html",
+      "size": 987
+    },
+    {
+      "source": "trainer_app.jsx",
+      "destination": "trainer_app.jsx",
+      "size": 59798
+    },
+    {
+      "source": "trainer_verbs.json",
+      "destination": "trainer_verbs.json",
+      "size": 221240
+    },
+    {
+      "source": "trainer_verbs.js",
+      "destination": "trainer_verbs.js",
+      "size": 221344
+    },
+    {
+      "source": "verbs_data_fixed.json",
+      "destination": "verbs_data_fixed.json",
+      "size": 885770
+    },
+    {
+      "source": "README.md",
+      "destination": "README.md",
+      "size": 7296
+    },
+    {
+      "source": "pwa/index.html",
+      "destination": "pwa/index.html",
+      "size": 1182
+    },
+    {
+      "source": "pwa/README.md",
+      "destination": "pwa/README.md",
+      "size": 616
+    },
+    {
+      "source": "pwa/manifest.webmanifest",
+      "destination": "pwa/manifest.webmanifest",
+      "size": 570
+    },
+    {
+      "source": "pwa/sw.js",
+      "destination": "pwa/sw.js",
+      "size": 1311
+    },
+    {
+      "source": "pwa/icon-192.png",
+      "destination": "pwa/icon-192.png",
+      "size": 1221
+    },
+    {
+      "source": "pwa/icon-512.png",
+      "destination": "pwa/icon-512.png",
+      "size": 4446
+    },
+    {
+      "source": "pwa/start-ipad-server.command",
+      "destination": "pwa/start-ipad-server.command",
+      "size": 588
+    }
+  ],
+  "directories": [
+    "vendor"
+  ]
+}
